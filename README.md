@@ -1,3 +1,3 @@
-# anime.js
+# Creati-Vee
 
-Creating animations with anime.js
+My Creative Artworks
